@@ -10,7 +10,7 @@ function App() {
       />
       <Marker position={[39.062245, 34.387842]}>
         <Popup>
-          Mucur MYO
+          Mucur Meslek Yüksekokulu
         </Popup>
       </Marker>
     </MapContainer>
